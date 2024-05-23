@@ -4,6 +4,8 @@
    <title>HTML Articles-This is a title of the page </title>
 </head>
 <body>
+<a href="https://twitter.com/x?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @x</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br/>
 <a class="twitter-timeline" href="https://twitter.com/CRUK_Policy?ref_src=twsrc%5Etfw">Tweets by CRUK_Policy</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 </body>
 </html>
